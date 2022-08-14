@@ -4,4 +4,7 @@ read $west
 echo " welcome "$west"
 
 Received your file 
-Thnk you 
+Thank you 
+
+Welcome
+Thanks for confirming 
